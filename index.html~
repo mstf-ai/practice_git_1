@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Hello World</title>
+	</head>
+
+	<body>
+		<h2 style="display: inline">Hello World :</h2>
+		<h3 style="display: inline"> is a web page just for test.</h3>
+		<br><br><hr><br>
+		<h1 style="color: #555; text-align: center" >
+			Welcome to our WebSite.
+		</h1>
+	</body>
+</html>
